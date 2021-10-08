@@ -1,0 +1,33 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: coral;
+}
+#Heading{
+     text-align: center;
+     color: brown;
+     margin-top: 14%;
+}
+input{
+    text-align: center;
+    width: 20%;
+    height: 30px;
+    position: relative;
+    display: block;
+    margin : 0 auto;
+}
+
+#outer-btn{
+    text-align: center;
+
+}
+button{
+     display: inline-block;
+     padding: 1%;
+     margin: 0.5%;
+     width: 10%;
+     font-size: large;
+     color: chocolate;
+}
